@@ -89,4 +89,4 @@ email = ""
 
 +++
 
-testing testing 123
+I am interested in the application of geoinformatics and ecoinformatics to freshwater ecology and invasion ecology. In particular remote sensing, statistical modeling and modern data analytics have the potential to transform the way we observe and understand freshwater systems.
