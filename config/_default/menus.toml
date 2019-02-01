@@ -25,7 +25,7 @@
   
 [[main]]
   main = "CV"
-  url = "content/cv/_index.md"
+  url = "[CV]{{< ref "content/cv" >}}"
   weight = 5
 
 # Link to a PDF of your resume/CV from the menu.
