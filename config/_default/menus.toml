@@ -24,7 +24,7 @@
   weight = 4
   
 [[main]]
-  main = "CV"
+  main = "Curriculum Vitae"
   url = "https://www.stevenbrownlee.ca/cv/"
   weight = 5
 
