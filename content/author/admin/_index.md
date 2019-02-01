@@ -13,7 +13,7 @@ role = "Student in the Master of Geomatics for Environmental Management program"
 organizations = [ { name = "University of British Columbia", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+# bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
