@@ -1,16 +1,16 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Steven Brownlee"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Student in the Master of Geomatics for Environmental Management program"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "University of British Columbia", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -20,26 +20,21 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Freshwater ecology",
+  "Geoinformatics",
+  "Conservation biology"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Bachelor of Science"
+  institution = "University of British Columbia, Okanagan campus"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Master of Geomatics for Environmental Management"
+  institution = "University of British Columbia, Vancouver campus"
+  year = 2019
 
 # Social/Academic Networking
 #
