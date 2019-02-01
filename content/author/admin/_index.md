@@ -19,11 +19,11 @@ bio = "My research interests include distributed robotics, mobile computing and 
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
+interests = 
   "Freshwater ecology",
   "Geoinformatics",
   "Conservation biology"
-]
+
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
