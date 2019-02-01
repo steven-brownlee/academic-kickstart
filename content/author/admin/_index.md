@@ -19,10 +19,10 @@ organizations = [ { name = "University of British Columbia", url = "" } ]
 email = ""
 
 # List (academic) interests or hobbies
-interests = 
-  "Freshwater ecology",
-  "Geoinformatics",
-  "Conservation biology"
+# interests = 
+  # "Freshwater ecology",
+  # "Geoinformatics",
+  # "Conservation biology"
 
 
 # List qualifications (such as academic degrees)
