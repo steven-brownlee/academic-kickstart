@@ -24,7 +24,7 @@
   weight = 4
   
 [[main]]
-  main = "CV"
+  main = "Tutorials"
   url = "#/cv/"
   weight = 5
 
