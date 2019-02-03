@@ -63,7 +63,7 @@ email = ""
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:sbrownlee@live.ca"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
