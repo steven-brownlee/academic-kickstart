@@ -25,7 +25,7 @@
   
 [[main]]
   main = "CV"
-  url = "/cv/"
+  url = "#experience"
   weight = 5
   
 [[main]]
