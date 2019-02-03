@@ -10,7 +10,7 @@ title = "Recent Posts"
 subtitle = ""
 
 # Number of recent posts to list.
-count = 5
+count = 1
 
 # List format.
 #   0 = Simple
