@@ -24,11 +24,11 @@
   weight = 4
   
 [[main]]
-  main = "Tutorials"
+  main = "CV"
   url = "/cv/"
   weight = 5
   
- [[main]]
+[[main]]
   name = "Projects"
   url = "#project"
   weight = 6
