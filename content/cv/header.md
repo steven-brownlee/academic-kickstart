@@ -11,6 +11,11 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 1
 
+[[social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "files/Steven Brownlee's CV.pdf"
+
 +++
 
 Graphical digest of curriculum vitae. PDF link here.
