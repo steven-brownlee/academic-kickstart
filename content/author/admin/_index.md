@@ -36,10 +36,10 @@ email = ""
   institution = "University of British Columbia, Vancouver campus"
   year = 2019
   
-[[education.courses]]
-  course = "Doctor of Philosophy"
-  institution = "Simon Fraser University"
-  year = 2023
+# [[education.courses]]
+#  course = "Doctor of Philosophy"
+#  institution = "Simon Fraser University"
+#  year = 2023
 
 
 # Social/Academic Networking
