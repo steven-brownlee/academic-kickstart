@@ -35,11 +35,9 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-# [image]
-  # Caption (optional)
-  #caption = "Photo by rawpixel on Unsplash"
+
+[image]
+  caption = "Encysted glochidium"
+  focal_point = "Smart"
   
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
- # focal_point = "Smart"
 +++
