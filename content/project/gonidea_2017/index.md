@@ -1,16 +1,12 @@
 +++
 # Project title.
-title = "Internal Project"
+title = "Rocky Mountain ridged mussel project"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of using the in-built project page."
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Deep Learning"]
+summary = "Project supervised by Dr. Ian Walker and Dr. Jon Mageroy at UBC-O to study the life history and ecology of the Rocky Mountain ridged mussel"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -37,7 +33,7 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 
 [image]
-  caption = "Encysted glochidium"
+  caption = "Encysted glochidium on the gill arch of a prickly sculpin (Cottus asper)"
   focal_point = "Smart"
   
 +++
