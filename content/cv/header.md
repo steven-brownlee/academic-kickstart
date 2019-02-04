@@ -13,7 +13,9 @@ weight = 1
 
 +++
 
-[[social]]
+Last updated: February 03 2019. 
+
+[social]
    icon = "cv"
    icon_pack = "ai"
    link = "files/Steven Brownlee's CV.pdf"
