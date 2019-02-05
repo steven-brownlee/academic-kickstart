@@ -1,5 +1,5 @@
 +++
-title = "Rocky Mountain Ridged Musselnin the Okanagan Valley, British Columbia: Host fish field sampling and mussel surveys in 2017"
+title = "Rocky Mountain Ridged Mussel (Gonidea angulata, Lea)  in the Okanagan Valley, British Columbia: Host fish field sampling and mussel surveys in 2017"
 date = 2017-09-01
 draft = false
 
