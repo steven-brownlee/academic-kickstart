@@ -11,6 +11,6 @@ list_format = 2
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
-caption = "The Okanagan River south of Oliver, BC. Photo credit Steven Brownlee."
+caption = ""
 
 +++
