@@ -39,11 +39,11 @@ weight = 7
   name = "ArcGIS"
   description = "Cartography, geoprocessing, statistical analyses and coding in Python"
     
-[[feature]]
-  icon = "trees"
-  icon_pack = "fas"
-  name = "MaxEnt
-  description = "Niche modeling methodology, theory and application"
+# [[feature]]
+#  icon = "trees"
+# icon_pack = "fas"
+#  name = "MaxEnt
+ # description = "Niche modeling methodology, theory and application"
   
 
 +++
