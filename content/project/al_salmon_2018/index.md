@@ -37,3 +37,22 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 #  focal_point = "Smart"
   
 +++
+
+I began working with these tools during my undergraduate degree, where I worked with
+Dr. Ian Walker, Dr. Jon Mageroy and Roxanne Snook at the University of British Columbia’s
+Okanagan campus on a project studying the life history of the Rocky Mountain ridged mussel
+(Gonidea angulata), an endangered species of freshwater mussel that, in Canada, is found only
+in BC’s Okanagan Valley. When the project began little was known about the mussel and its
+conservation status, and our immediate goal was to gather information about its habitat and
+ecological requirements. A secondary goal of the project was to develop a habitat suitability
+model for the Rocky Mountain ridged mussel, which was to be applied directly to managing
+shoreline development and preservation in Okanagan Lake.
+
+Based on expert appraisal we conducted fieldwork to identify the extant populations of
+the mussel in Okanagan Lake as well as testing to quantify the sediment and hydrological
+conditions present where the mussel was found. Using these occurrences and the conditions
+present in the mussel beds we developed a Random Forest-derived habitat suitability model for
+the mussel in Okanagan Lake, which achieved a low misclassification rate and successfully
+identified four key factors that likely contribute to the mussels’ distribution in the Okanagan
+Valley.
+
