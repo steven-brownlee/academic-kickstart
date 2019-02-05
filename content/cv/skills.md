@@ -25,18 +25,25 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = ""
+  description = "R for geospatial applications, imagery manipulation, statistics and niche modeling"
   
 [[feature]]
   icon = "python"
   icon_pack = "fas"
   name = "Python"
-  description = ""  
+  description = "Python for interfacing with Arc geoprocessing tools, data analytics"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "map-marked-alt"
   icon_pack = "fas"
-  name = "Photography"
-  description = ""
+  name = "ArcGIS"
+  description = "Cartography, geoprocessing, statistical analyses and coding in Python"
+    
+[[feature]]
+  icon = "trees"
+  icon_pack = "fas"
+  name = "MaxEnt
+  description = "Niche modeling methodology, theory and application"
+  
 
 +++
