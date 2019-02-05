@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Rocky Mountain ridged mussel project"
+title = "Alouette Lake salmon niche modeling
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Project supervised by Dr. Ian Walker and Dr. Jon Mageroy at UBC-O to study the life history and ecology of the Rocky Mountain ridged mussel"
+summary = "Reproductive niche model developed in conjunction with Allison Hebert and Dr. Scott Hinch for a rare ecotype of sockeye salmon in Alouette Lake"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
