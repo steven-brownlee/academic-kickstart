@@ -11,6 +11,17 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 1
 
+# List qualifications (such as academic degrees)
+[[education.courses]]
+  course = "Bachelor of Science"
+  institution = "University of British Columbia, Okanagan campus"
+  year = 2018
+
+[[education.courses]]
+  course = "Master of Geomatics for Environmental Management"
+  institution = "University of British Columbia, Vancouver campus"
+  year = 2019
+
 +++
 
 Last updated: February 03 2019. 
