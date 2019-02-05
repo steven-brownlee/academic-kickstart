@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Alouette Lake salmon niche modeling
+title = "Alouette Lake salmon niche modeling"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
@@ -37,22 +37,26 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 #  focal_point = "Smart"
   
 +++
+ I worked with Dr. Scott Hinch and Allison Hebert in developing a reproductive niche model for a rare ecotype
+of sockeye salmon (Oncorhynchus nerka) in BC’s Alouette Lake. Alouette Lake was dammed as
+part of a hydroelectric power project, and this damming event trapped a population of
+previously-anadromous sockeye salmon in the lake, leading to the development of a new
+deepwater-spawning ecotype. The goal of the project was to identify the habitat variables that the
+rare ecotype uses to select spawning habitat in the deep portions of the lake. To that end
+bathymetry, visual substrate composition transects across the lake and most importantly 
+georeferenced spawning occurrences were collected. In consultation with the two project leads
+and technical advisors in the MGEM program I built a series of whole-lake substrate
+composition rasters and proxies for indicator variables like groundwater intrusion, and used them
+in concert with the suitability modeling software MaxEnt to construct a reproductive niche
+model for the ecotype.
 
-I began working with these tools during my undergraduate degree, where I worked with
-Dr. Ian Walker, Dr. Jon Mageroy and Roxanne Snook at the University of British Columbia’s
-Okanagan campus on a project studying the life history of the Rocky Mountain ridged mussel
-(Gonidea angulata), an endangered species of freshwater mussel that, in Canada, is found only
-in BC’s Okanagan Valley. When the project began little was known about the mussel and its
-conservation status, and our immediate goal was to gather information about its habitat and
-ecological requirements. A secondary goal of the project was to develop a habitat suitability
-model for the Rocky Mountain ridged mussel, which was to be applied directly to managing
-shoreline development and preservation in Okanagan Lake.
-
-Based on expert appraisal we conducted fieldwork to identify the extant populations of
-the mussel in Okanagan Lake as well as testing to quantify the sediment and hydrological
-conditions present where the mussel was found. Using these occurrences and the conditions
-present in the mussel beds we developed a Random Forest-derived habitat suitability model for
-the mussel in Okanagan Lake, which achieved a low misclassification rate and successfully
-identified four key factors that likely contribute to the mussels’ distribution in the Okanagan
-Valley.
-
+This new deepwater ecotype has persisted into the 21st century, but new management
+plans have allowed for the release of juvenile sockeye downstream for the first time, causing the
+released fish to revert to their ancestral anadromous ecotype. These reverted anadromous
+sockeye are being transported back into the lake by management authorities, raising the
+possibility of the newcomers mating with the deepwater ecotype. Using hydroacoustic tracking
+data of the released anadromous sockeye I have also developed a second niche model for the
+spawning preferences of the anadromous sockeye and using comparative niche metrics have
+found that the anadromous sockeye and deepwater sockeye have significantly different
+reproductive niche envelopes, despite being released into the same ancestral habitat and sharing a
+very recent point of divergence. 
