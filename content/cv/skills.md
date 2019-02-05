@@ -28,7 +28,7 @@ weight = 7
   description = "R for geospatial applications, imagery manipulation, statistics and niche modeling"
   
 [[feature]]
-  icon = "python"
+  icon = "fa-python"
   icon_pack = "fas"
   name = "Python"
   description = "Python for interfacing with Arc geoprocessing tools, data analytics"  
