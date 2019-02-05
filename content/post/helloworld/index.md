@@ -15,7 +15,7 @@ authors = ["Admin"]
 +++
 
 I hope you'll forgive me for using such a cliche to begin this piece but I felt it was only appropriate
-considering that this is the first post of the website, and one that I sit writing the HTML code for myself. This 
+considering that this is the first post of the website, and one that I sit writing the code for myself. This 
 website is hosted on my personal GitHub page and built using the open-source Hugo platform and the 'Academic' theme.
 
 At the moment content is a bit sparse, with only my CV and some reflective material on my undergraduate experience and
