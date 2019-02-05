@@ -14,7 +14,7 @@ authors = ["Admin"]
 
 +++
 
-You'll have to forgive me, Reader, for using such a cliche to begin this piece but I felt it was only appropriate
+I hope you'll forgive me for using such a cliche to begin this piece but I felt it was only appropriate
 considering that this is the first post of the website, and one that I sit writing the HTML code for myself. This 
 website is hosted on my personal GitHub page and built using the open-source Hugo platform and the 'Academic' theme.
 
