@@ -15,7 +15,7 @@ weight = 1
 
 Last updated: February 03 2019. 
 
-[PDF version of CV found here.] (/static/files/Steven Brownlee's CV.pdf")
+[PDF version of CV found here.] (/static/files/Steven Brownlee's CV.pdf)
 
 [social]
    icon = "cv"
