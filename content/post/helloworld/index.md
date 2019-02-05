@@ -7,6 +7,11 @@ lastmod = 2018-02-01
 draft = false
 
 authors = ["Admin"]
+
+[header]
+  image = ""
+  caption = "The Okanagan River south of Oliver, BC. Photo credit Steven Brownlee."
+
 +++
 
 You'll have to forgive me, Reader, for using such a cliche to begin this piece but I felt it was only appropriate
