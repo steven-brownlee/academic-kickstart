@@ -9,7 +9,7 @@ title = "Curriculum Vitae"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 1
+weight = 9
 
 +++
 
