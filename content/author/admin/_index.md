@@ -39,7 +39,7 @@ email = ""
 [[education.courses]]
   course = "Doctor of Philosophy"
   institution = "Simon Fraser University"
-  year = ~2023
+  year = TBD
 
 
 # Social/Academic Networking
