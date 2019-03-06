@@ -49,7 +49,7 @@ slides = "example-slides"
 tags = []
 
 # Links (optional).
-url_pdf = "static/files/Steven Brownlee's Rocky Mountain Ridged Mussel Report.pdf"
+url_pdf = "https://www.dropbox.com/s/gz4rw6kwpe1g9jl/Rocky%20Mountain%20ridged%20mussel%20in%20the%20Okanagan%20Valley%2C%20BC%20-%20host%20fish%20field%20sampling%20and%20mussel%20surveys%20in%202017.pdf?dl=0"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
