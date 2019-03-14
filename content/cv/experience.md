@@ -18,6 +18,16 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "PhD Position in Invasion Ecology"
+  company = "Simon Fraser University"
+  company_url = ""
+  location = "Vancouver"
+  date_start = "2019-06-01"
+  date_end = "2023-06-01"
+  description = """ I am to join the labs of Dr. Isabelle Côté and Dr. Jonathan Moore at Simon Fraser University this May as part of a project to develop a suite of models to explore the impacts and dynamics of zebra mussel invasion in British Columbia. """
+
 [[experience]]
   title = "MGEM Capstone Project"
   company = "University of British Columbia, Vancouver campus"
