@@ -27,14 +27,13 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 
 [image]
-  caption = "Drawing of zebra mussel with byssal threads on the posterior end. Photo credit: Great Lakes Environmental Research 
-  Laboratory/National Oceanic and Atmospheric Administration"
+  caption = "Drawing of zebra mussel with byssal threads on the posterior end. Photo credit: GLER/NOAA"
   focal_point = "Smart"
   
 +++
