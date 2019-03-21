@@ -22,8 +22,8 @@ weight = 2
   title = "Bachelor of Science"
   url = ""
   certificate_url = ""
-  date_start = "2011"
-  date_end = "2017"
+  date_start = "2011-09-01"
+  date_end = "2017-09-01"
   description = ""
   
 [[item]]
