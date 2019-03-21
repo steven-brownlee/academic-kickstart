@@ -13,7 +13,7 @@ authors = ["Admin"]
   caption = "The Okanagan River south of Oliver, BC. Photo credit Steven Brownlee."
 
 +++
-*The banks of the Okanagan River south of Oliver, BC where I did much of my undergraduate fieldwork.*
+*The banks of the Okanagan River south of Oliver, BC where I did much of my undergraduate fieldwork. Photo credit: Steven Brownlee*
 
 This is my first post and test of the functioning of the blogging system on this website - as is traditional, I've titled it 'Hello, world!' in 
 tribute to the generations of computer science students that have come before me and suffered to make producing this website easier.
