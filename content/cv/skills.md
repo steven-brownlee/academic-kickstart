@@ -73,6 +73,5 @@ weight = 5
   icon = "analytics"
   icon_pack = "fas"
   name = "Fragstats"
-  description = "Ecological network and connectivity analysis"
-  
+  description = "Patch, regional and landscape ecological analysis"
 +++
