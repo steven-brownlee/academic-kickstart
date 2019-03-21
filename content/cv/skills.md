@@ -48,7 +48,7 @@ weight = 5
 [[feature]]
   icon = "trees"
   icon_pack = "fas"
-  name = "MaxEnt
+  name = "MaxEnt"
   description = "Niche modeling methodology, theory and application"
   
 
