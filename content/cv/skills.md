@@ -40,16 +40,39 @@ weight = 5
   description = "Cartography, geoprocessing, statistical analyses and coding in Python"
   
 [[feature]]
-  icon = "map-marked-alt"
+  icon = "database"
   icon_pack = "fas"
-  name = "test"
-  description = "Cartography, geoprocessing, statistical analyses and coding in Python"
+  name = "MySQL"
+  description = "Database manipulation and management"
     
+[[feature]]
+  icon = "windows"
+  icon_pack = "fas"
+  name = "MS Office"
+  description = "Powerpoint, Word and Excel"
+  
+[[feature]]
+  icon = "windows"
+  icon_pack = "fas"
+  name = "QGIS"
+  description = "Powerpoint, Word and Excel"
+  
+[[feature]]
+  icon = "satellite"
+  icon_pack = "fas"
+  name = "ENVI"
+  description = "Manipulation and analysis of satellite imagery"
+  
+[[feature]]
+  icon = "seedling"
+  icon_pack = "fas"
+  name = "Conefor"
+  description = "Ecological network and connectivity analysis"
+   
 [[feature]]
   icon = "trees"
   icon_pack = "fas"
   name = "MaxEnt"
-  description = "Niche modeling methodology, theory and application"
+  description = "Habitat suitability and niche modeling"
   
-
 +++
