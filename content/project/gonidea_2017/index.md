@@ -33,7 +33,7 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 
 [image]
-  caption = "Encysted glochidium on the gill arch of a prickly sculpin (*Cottus asper*)"
+  caption = "Encysted glochidium on the gill arch of a prickly sculpin (*Cottus asper*). Photo credit: Steven Brownlee"
   focal_point = "Smart"
   
 +++
