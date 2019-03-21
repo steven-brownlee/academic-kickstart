@@ -33,12 +33,12 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 
 #[image]
-#  caption = "Encysted glochidium on the gill arch of a prickly sculpin (Cottus asper)"
+#  caption = "Encysted glochidium on the gill arch of a prickly sculpin (*Cottus asper*)"
 #  focal_point = "Smart"
   
 +++
  I worked with Dr. Scott Hinch and Allison Hebert in developing a reproductive niche model for a rare ecotype
-of sockeye salmon (Oncorhynchus nerka) in BC’s Alouette Lake. Alouette Lake was dammed as
+of sockeye salmon (*Oncorhynchus nerka*) in BC’s Alouette Lake. Alouette Lake was dammed as
 part of a hydroelectric power project, and this damming event trapped a population of
 previously-anadromous sockeye salmon in the lake, leading to the development of a new
 deepwater-spawning ecotype. The goal of the project was to identify the habitat variables that the
