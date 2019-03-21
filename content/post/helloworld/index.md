@@ -1,6 +1,6 @@
 +++
 title = "Hello world!"
-subtitle = "This is a subtitle"
+subtitle = ""
 
 date = 2017-02-01
 lastmod = 2018-02-01
@@ -9,7 +9,7 @@ draft = false
 authors = ["Admin"]
 
 [header]
-  image = ""
+  image = "/featured.jpg"
   caption = "The Okanagan River south of Oliver, BC. Photo credit Steven Brownlee."
 
 +++
