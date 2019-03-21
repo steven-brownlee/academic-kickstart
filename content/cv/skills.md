@@ -68,11 +68,11 @@ weight = 5
   icon_pack = "fas"
   name = "Conefor"
   description = "Ecological network and connectivity analysis"
-   
+  
 [[feature]]
   icon = "chart-network"
   icon_pack = "fas"
-  name = "MaxEnt"
+  name = "Maxent"
   description = "Habitat suitability and niche modeling"
-  
+
 +++
