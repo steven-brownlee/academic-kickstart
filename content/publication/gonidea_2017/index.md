@@ -1,5 +1,5 @@
 +++
-title = "Rocky Mountain Ridged Mussel (*Gonidea angulata*, Lea)  in the Okanagan Valley, British Columbia: Host fish field sampling and mussel surveys in 2017"
+title = "Rocky Mountain Ridged Mussel (Gonidea angulata, Lea)  in the Okanagan Valley, British Columbia: Host fish field sampling and mussel surveys in 2017"
 date = 2017-09-01
 draft = false
 
@@ -18,11 +18,11 @@ authors = ["Steven Brownlee", "Jon Mageroy", "Ian Walker"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "Published by the University of British Columbia, Okanagan"
+publication = "Published by the University of British Columbia, Okanagan campus"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Report submitted after field work in the summer of 2017, in support of project objective to identify host fish of *Gonidea angulata*."
+abstract = "Report submitted after field work in the summer of 2017, in support of project objective to identify host fish of *Gonidea angulata*. Sums the outcome of field survey work in the Okanagan Valley, notably in the south of the valley, to identify "
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -78,6 +78,3 @@ math = true
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
-+++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
