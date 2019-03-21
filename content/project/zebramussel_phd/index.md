@@ -32,9 +32,10 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 
-#[image]
-#  caption = "Drawing of zebra mussel with byssal threads on the posterior end. Photo credit: Great Lakes Environmental Research Laboratory/National Oceanic and Atmospheric Administration"
-#  focal_point = "Smart"
+[image]
+  caption = "Drawing of zebra mussel with byssal threads on the posterior end. Photo credit: Great Lakes Environmental Research 
+  Laboratory/National Oceanic and Atmospheric Administration"
+  focal_point = "Smart"
   
 +++
 
