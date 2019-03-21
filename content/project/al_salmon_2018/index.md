@@ -33,7 +33,7 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 
 [image]
-  caption = "Output of reproductive niche model generated for resident sockeye in Alouette Lake - cool colours indicate areas of low suitability, warmer colours higher. Photo credit: Steven Brownlee"
+  caption = "Output of reproductive niche model generated for resident sockeye in Alouette Lake. Photo credit: Steven Brownlee"
   focal_point = "Smart"
   
 +++
