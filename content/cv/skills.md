@@ -70,15 +70,8 @@ weight = 5
   description = "Ecological network and connectivity analysis"
   
 [[feature]]
-  icon = "analytics"
+  icon = "chess-board"
   icon_pack = "fas"
   name = "Fragstats"
   description = "Patch, regional and landscape ecological analysis"
-
-[[feature]]
-  icon = "analytics"
-  icon_pack = "fas"
-  name = "test"
-  description = "Patch, regional and landscape ecological analysis"
-
 +++
