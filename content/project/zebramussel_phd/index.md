@@ -6,7 +6,7 @@ title = "Zebra mussel PhD at Simon Fraser University"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Project with Dr. Isabelle Côté and Dr. Jonathan Moore at Simon Fraser University to develop a suite of models predicting the spread and impact of zebra mussels (Dreissena polymorpha) in BC"
+summary = "Project with Dr. Isabelle Côté and Dr. Jonathan Moore at Simon Fraser University to develop a suite of models predicting the spread and impact of zebra mussels (*Dreissena polymorpha*) in BC"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
