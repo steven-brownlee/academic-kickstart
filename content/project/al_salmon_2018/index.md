@@ -32,9 +32,9 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 
-#[image]
-#  caption = "Encysted glochidium on the gill arch of a prickly sculpin (*Cottus asper*). Photo credit: Steven Brownlee"
-#  focal_point = "Smart"
+[image]
+  caption = "Output of reproductive niche model generated for resident sockeye in Alouette Lake - cool colours indicate areas of low suitability, warmer colours higher. Photo credit: Steven Brownlee"
+  focal_point = "Smart"
   
 +++
  I worked with Dr. Scott Hinch and Allison Hebert in developing a reproductive niche model for a rare ecotype
