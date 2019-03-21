@@ -38,10 +38,16 @@ weight = 5
   icon_pack = "fas"
   name = "ArcGIS"
   description = "Cartography, geoprocessing, statistical analyses and coding in Python"
+  
+[[feature]]
+  icon = "map-marked-alt"
+  icon_pack = "fas"
+  name = "ArcGIS"
+  description = "Cartography, geoprocessing, statistical analyses and coding in Python"
     
- [[feature]]
+[[feature]]
   icon = "trees"
- icon_pack = "fas"
+  icon_pack = "fas"
   name = "MaxEnt
   description = "Niche modeling methodology, theory and application"
   
