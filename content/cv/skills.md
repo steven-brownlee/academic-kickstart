@@ -72,7 +72,7 @@ weight = 5
 [[feature]]
   icon = "chart-network"
   icon_pack = "fas"
-  name = "Maxent"
-  description = "Habitat suitability and niche modeling"
+  name = "Fragstats"
+  description = "Landscape, regional and patch analysis"
 
 +++
