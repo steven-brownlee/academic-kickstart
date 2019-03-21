@@ -75,4 +75,10 @@ weight = 5
   name = "Fragstats"
   description = "Patch, regional and landscape ecological analysis"
 
+[[feature]]
+  icon = "analytics"
+  icon_pack = "fas"
+  name = "test"
+  description = "Patch, regional and landscape ecological analysis"
+
 +++
