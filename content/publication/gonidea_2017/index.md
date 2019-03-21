@@ -22,7 +22,8 @@ publication = "Published by the University of British Columbia, Okanagan campus"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Report submitted after field work in the summer of 2017, in support of project objective to identify host fish of *Gonidea angulata*. Sums the outcome of field survey work in the Okanagan Valley, notably in the south of the valley, to identify "
+abstract = "Report submitted after field work in the summer of 2017, in support of project objective to identify host fish of *Gonidea 
+angulata*. Sums the outcome of field survey work in the Okanagan Valley, notably in the south of the valley, to identify "
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
