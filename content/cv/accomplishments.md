@@ -18,10 +18,10 @@ weight = 2
 
 [[item]]
   organization = "University of British Columbia, Okanagan campus"
-  organization_url = "https://www.datacamp.com"
+  organization_url = "https://ok.ubc.ca/"
   title = "Bachelor of Science"
   url = ""
-  certificate_url = "https://www.datacamp.com"
+  certificate_url = ""
   date_start = "2011-09-01"
   date_end = "2017-09-01"
   description = ""
@@ -29,9 +29,9 @@ weight = 2
 [[item]]
   organization = "University of British Columbia, Vancouver campus"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
+  title = "Master of Geomatics for Environmental Management"
+  url = "ubc.ca"
+  certificate_url = ""
   date_start = "2018-07-01"
   date_end = "2019-05-01"
   description = ""
