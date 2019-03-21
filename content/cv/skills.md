@@ -46,16 +46,16 @@ weight = 5
   description = "Database manipulation and management"
     
 [[feature]]
-  icon = "windows"
+  icon = "laptop"
   icon_pack = "fas"
   name = "MS Office"
   description = "Powerpoint, Word and Excel"
   
 [[feature]]
-  icon = "windows"
+  icon = "layer-group"
   icon_pack = "fas"
   name = "QGIS"
-  description = "Powerpoint, Word and Excel"
+  description = "Geomatics, cartography and statistical analysis"
   
 [[feature]]
   icon = "satellite"
@@ -70,7 +70,7 @@ weight = 5
   description = "Ecological network and connectivity analysis"
    
 [[feature]]
-  icon = "trees"
+  icon = "chart-network"
   icon_pack = "fas"
   name = "MaxEnt"
   description = "Habitat suitability and niche modeling"
