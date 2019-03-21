@@ -69,10 +69,4 @@ weight = 5
   name = "Conefor"
   description = "Ecological network and connectivity analysis"
   
-[[feature]]
-  icon = "chart-network"
-  icon_pack = "fas"
-  name = "Fragstats"
-  description = "Landscape, regional and patch analysis"
-
 +++
