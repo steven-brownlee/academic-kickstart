@@ -42,7 +42,7 @@ weight = 5
 [[feature]]
   icon = "map-marked-alt"
   icon_pack = "fas"
-  name = "ArcGIS"
+  name = "test"
   description = "Cartography, geoprocessing, statistical analyses and coding in Python"
     
 [[feature]]
