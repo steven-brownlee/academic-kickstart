@@ -22,7 +22,12 @@ publication = "Published by the University of British Columbia, Okanagan"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Report submitted after field work in the summer of 2017, in support of project objective to identify host fish of Gonidea angulata."
+abstract = "Report submitted to the Rocky Mountain ridged mussel project's funders in the fall of 2017 in summation of the field work and lab work conducted in the summer of 2017. This work consisted of a series of surveys, particularly in the south Okanagan, for further populations of the Rocky Mountain ridged mussel and a host fish infection survey targeted similarly on fish from the south Okanagan. Seining and trapping for fish was carried out in Vaseux Lake and in Oliver at several sites. The fish caught in these efforts were euthanized and dissected in order to examine their gill arches for the presence of glochidia. 
+
+The results of this infection survey indicate that prickly sculpin (*Cottus asper*) is the primary host for the Rocky Mountain ridged mussel in the southern portion of its range. The other fish species found and examined in this survey - smallmouth bass (*Micropterus dolomieu*), pumpkinseed sunfish (*Lepomis gibbosus*), bluegill sunfish (*Lepomis macrochirus*), yellow perch (*Perca flavescens*) and largemouth bass (*Micropterus salmoides*) had no glochidia observed on their gills and therefore do not represent a potential host for the mussel. 
+
+Survey work in the south Okanagan found one additional large population centered around Wizard Island in Vaseux Lake, but efforts in Osoyoos Lake failed to find any further evidence of the Rocky Mountain ridged mussel. Substrate and physical habitat characteristics present in Osoyoos Lake would suggest that much of the lake is not suitable for the mussel, and that further search effort might be better expended in Okanagan Lake and in the tributaries of the Okanagan River, where extant populations and suitable areas have yet to be effectively surveyed."
+
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
