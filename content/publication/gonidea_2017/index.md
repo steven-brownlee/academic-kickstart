@@ -22,6 +22,7 @@ publication = "Published by the University of British Columbia, Okanagan"
 publication_short = ""
 
 # Abstract and optional shortened version.
+
 abstract = "Report submitted to the Rocky Mountain ridged mussel project's funders in the fall of 2017 in summation of the field work and 
 lab work conducted in the summer of 2017. This work consisted of a series of surveys, particularly in the south Okanagan, for further 
 populations of the Rocky Mountain ridged mussel and a host fish infection survey targeted similarly on fish from the south Okanagan. Seining 
