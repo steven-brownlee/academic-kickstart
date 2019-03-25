@@ -28,7 +28,7 @@ weight = 2
   
 [[item]]
   organization = "University of British Columbia, Vancouver campus"
-  organization_url = "https://www.edx.org"
+  organization_url = "https://www.ubc.ca/"
   title = "Master of Geomatics for Environmental Management"
   url = "ubc.ca"
   certificate_url = ""
