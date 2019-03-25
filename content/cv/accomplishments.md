@@ -39,7 +39,7 @@ weight = 2
 [[item]]
   organization = "Simon Fraser University"
   organization_url = "https://www.sfu.ca/"
-  title = "Doctor of Philosophy in Biological Sciences"
+  title = "Doctor of Philosophy"
   url = ""
   certificate_url = ""
   date_start = "2019-05-01"
