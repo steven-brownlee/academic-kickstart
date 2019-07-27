@@ -61,11 +61,6 @@ email = ""
 #   Full list: https://jpswalsh.github.io/academicons/
 
 [[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "mailto:sbrownlee@live.ca"  # For a direct email link, use "mailto:test@example.org".
-
-[[social]]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/sfbrownlee"
