@@ -6,11 +6,11 @@ name = "Steven Brownlee"
 superuser = true
 
 # Role/position
-role = "Student in the Master of Geomatics for Environmental Management program"
+role = "PhD student in the Marine Ecology Lab and Salmon Watersheds Lab"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of British Columbia", url = "" } ]
+organizations = [ { name = "Simon Fraser University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 # bio = "My research interests include distributed robotics, mobile computing and programmable matter."
